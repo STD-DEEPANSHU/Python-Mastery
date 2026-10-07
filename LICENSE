@@ -1,0 +1,168 @@
+================================================================================
+                           STD PUBLIC LICENSE
+           Copyright (c) 2026 STD-DEEPANSHU (stddeepanshu@gmail.com)
+                  Official URL: https://github.com/STD-DEEPANSHU
+================================================================================
+
+                                 PREAMBLE
+
+The STD Public License is an international software, library, and educational 
+content license. Its purpose is to grant broad permissions for the execution, 
+modification, and integration of computer software and libraries, while 
+simultaneously safeguarding patent rights, requiring transparent disclosure of 
+modified source code, preventing commercial exploitation of educational 
+works, and protecting the intellectual attribution of the authors.
+
+================================================================================
+                       TERMS AND CONDITIONS FOR USE,
+                 REPRODUCTION, MODIFICATION, AND DISTRIBUTION
+================================================================================
+
+1. DEFINITIONS
+
+   "Licensor" means the copyright owner or entity authorized by the copyright 
+   owner that grants rights under this License.
+
+   "The Work" means the software programs, libraries, source code, scripts, 
+   documentation, educational roadmaps, tutorials, datasets, and digital assets 
+   made available under this License.
+
+   "Source Form" means the preferred format for making modifications, including 
+   software source code, documentation files, and build scripts.
+
+   "Derivative Work" means any translation, adaptation, or modification based 
+   upon the Work.
+
+   "Educational Material" means any written curricula, instructional guides, 
+   roadmaps, cheatsheets, or explanatory articles distributed within the Work.
+
+
+2. GRANT OF COPYRIGHT LICENSE
+
+   Subject to the terms and conditions of this License, each Licensor hereby 
+   grants to You a worldwide, royalty-free, non-exclusive, perpetual copyright 
+   license to:
+     a. Reproduce, prepare Derivative Works of, publicly display, and run the 
+        Work in Source Form or Object Form.
+     b. Incorporate individual algorithms, functions, and code examples into 
+        independent software systems.
+
+
+3. GRANT OF PATENT LICENSE & RETALIATION DEFENSE
+
+   a. Patent Grant: Each Licensor grants to You a perpetual, worldwide, 
+      non-exclusive, no-charge, royalty-free patent license to make, have made, 
+      use, offer to sell, sell, and import the Work.
+   b. Patent Retaliation: If You institute patent litigation against any Licensor 
+      or contributor (including a cross-claim or counterclaim in a lawsuit) 
+      alleging that the Work constitutes direct or contributory patent 
+      infringement, then any patent licenses granted to You under this License 
+      for that Work shall terminate as of the date such litigation is filed.
+
+
+4. LIBRARY & DYNAMIC LINKING EXCEPTION
+
+   If the Work is designed as a software library, package, or application 
+   programming interface (API):
+     a. External programs that merely compile against, dynamically link with, 
+        or import the interfaces of the Work do not become Derivative Works 
+        under this License and may be distributed under licensing terms of 
+        your choice.
+     b. Direct modifications, revisions, or patches made to the files of the 
+        Work itself must remain governed by this License and be made publicly 
+        available in Source Form upon distribution.
+
+
+5. SOURCE CODE DISCLOSURE & NETWORK DEPLOYMENT
+
+   If You distribute a Derivative Work, or deploy a modified version of the 
+   Work as an interactive network service (SaaS or Cloud API) accessible to 
+   third parties:
+     a. You must provide prominent instructions and access for users to obtain 
+        the complete Source Form of your modifications without fee.
+     b. You must cause any modified files to carry prominent notices stating 
+        that you changed the files and the date of modification.
+
+
+6. EDUCATIONAL CONTENT INTEGRITY & COMMERCIAL RESTRICTION
+
+   With respect to all Educational Material contained within the Work:
+     a. Free Educational Access: Any individual, educational institution, or 
+        study group may freely read, practice, and share the Educational 
+        Material without payment.
+     b. Commercial Course Paywall Prohibition: You may NOT copy, repackage, 
+        or redistribute the Educational Material as part of a paid commercial 
+        training course, subscription-gated digital platform, or paid commercial 
+        book without prior written authorization from the Licensor.
+     c. Derivative Educational Works: Any translated or adapted educational 
+        guides must be released under this exact License with attribution.
+
+
+7. MANDATORY ATTRIBUTION & PRESERVATION OF NOTICES
+
+   You may reproduce and distribute copies of the Work or Derivative Works 
+   in any medium, provided that You satisfy the following conditions:
+     a. You must give all recipients a copy of this License.
+     b. You must retain all copyright, patent, and attribution notices from 
+        the Source Form of the Work.
+     c. You must prominently include credit to the original author:
+        "Copyright (c) 2026 STD-DEEPANSHU (https://github.com/STD-DEEPANSHU)".
+
+
+8. TRADEMARK RESTRICTION
+
+   This License does not grant permission to use the trade names, trademarks, 
+   service marks, or product names of the Licensor or STD-DEEPANSHU, except as 
+   required for reasonable and customary use in describing the origin of the 
+   Work and reproducing the content of this License.
+
+
+9. DISCLAIMER OF WARRANTY
+
+   UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, THE WORK IS 
+   PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
+   EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES 
+   OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR 
+   A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE 
+   APPROPRIATENESS OF USING OR REDISTRIBUTING THE WORK.
+
+
+10. LIMITATION OF LIABILITY
+
+    IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), 
+    CONTRACT, OR OTHERWISE, SHALL ANY LICENSOR OR CONTRIBUTOR BE LIABLE TO YOU 
+    FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR 
+    CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENSE 
+    OR OUT OF THE USE OR INABILITY TO USE THE WORK.
+
+================================================================================
+                                   APPENDIX
+               HOW TO APPLY THIS LICENSE TO YOUR REPOSITORY
+================================================================================
+
+To apply the STD Public License to your software or repository:
+
+1. Place a file named `LICENSE` in the root of your project containing 
+   this full text.
+
+2. Attach this standard header notice at the top of each source file:
+
+--------------------------------------------------------------------------------
+Copyright (c) [YEAR] [YOUR NAME OR ORGANIZATION]
+
+Licensed under the STD Public License (the "License"); you may not use 
+this file except in compliance with the License. You may obtain a copy of 
+the License at: https://github.com/STD-DEEPANSHU
+
+Unless required by applicable law or agreed to in writing, software distributed 
+under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
+CONDITIONS OF ANY KIND, either express or implied.
+--------------------------------------------------------------------------------
+
+3. Add the license badge in your README.md:
+
+[![License: STD](https://img.shields.io/badge/License-STD%20Public%20License-red.svg)](LICENSE)
+
+================================================================================
+                         END OF STD PUBLIC LICENSE
+================================================================================
